@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BoldReports.Mvc5" Version="4.2.66" />
+    <PackageReference Include="BoldReports.Net.Core" Version="4.2.66" />
+    <PackageReference Include="BoldReports.Web" Version="4.2.66" />
+  </ItemGroup>
+
 </Project>
