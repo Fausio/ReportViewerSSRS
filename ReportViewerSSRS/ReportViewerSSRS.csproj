@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BoldReports.JavaScript" Version="4.2.66" />
     <PackageReference Include="BoldReports.Mvc5" Version="4.2.66" />
     <PackageReference Include="BoldReports.Net.Core" Version="4.2.66" />
     <PackageReference Include="BoldReports.Web" Version="4.2.66" />
